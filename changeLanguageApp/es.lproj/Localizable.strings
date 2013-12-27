@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  changeLanguageApp
+
+  Created by Deva Palanisamy on 27/12/13.
+  Copyright (c) 2013 Aurum. All rights reserved.
+*/
+
+"hello" = "HOLA MUNDO";
